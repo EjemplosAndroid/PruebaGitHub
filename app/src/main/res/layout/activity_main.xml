@@ -53,4 +53,14 @@
         android:layout_alignStart="@+id/textView"
         android:layout_marginTop="38dp" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="texto 3"
+        android:id="@+id/textView3"
+        android:layout_below="@+id/textView2"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_marginTop="38dp" />
+
 </RelativeLayout>
